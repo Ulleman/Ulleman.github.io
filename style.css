@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat';font-size: 22px;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: lightgreen;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+}
